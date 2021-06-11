@@ -203,7 +203,7 @@ ul.topnav.responsive li a.nav-link{
     order: 2;
     padding-top: 2.3rem;
 }
-form-group{
+.form-group{
     display: flex;
 }
 .submit-btn-wrapper{
